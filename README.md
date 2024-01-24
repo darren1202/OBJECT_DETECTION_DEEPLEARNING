@@ -21,7 +21,7 @@ Coral device such as the
     ```
     mkdir google-coral && cd google-coral
 
-    git clone https://github.com/google-coral/examples-camera.git --depth 1
+    git clone https://github.com/darren1202/OBJECT_DETECTION_DEEPLEARNING.git --depth 1
     ```
 
 3.  Download the models:
@@ -41,23 +41,13 @@ README file for the respective subfolder.
 
 ## Contents
 
-  * __Gstreamer__ Python examples using gstreamer to obtain camera images. These
-    examples work on Linux using a webcam, Raspberry Pi with
-    the Raspicam and on the Coral DevBoard using the Coral camera. For the
-    former two you will also need a Coral USB Accelerator to run the models.
-  * __Raspicam__ Python example using picamera. This is only intended for
-    Raspberry Pi and will require a Coral USB Accelerator.
-    Use ```install_requirements.sh``` to make sure all the dependencies are
-    present.
   * __PyGame__ Python example using pygame to obtain camera frames.
     Use ```install_requirements.sh``` to make sure all the dependencies are
     present.
   * __OpenCV__ Python example using OpenCV to obtain camera frames.
     Use ```install_requirements.sh``` to make sure all the dependencies are
     present.
-  * __NativeApp__ C++ example using gstreamer to obtain camera frames.
-    See README in the nativeapp directory on how to compile for the
-    Coral DevBoard.
+  
 
 ## Canned models
 
