@@ -27,7 +27,7 @@ Coral device such as the
 3.  Download the models:
 
     ```
-    cd examples-camera
+    cd object-detection
 
     sh download_models.sh
     ```
