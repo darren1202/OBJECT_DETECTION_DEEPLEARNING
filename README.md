@@ -19,7 +19,7 @@ Coral device such as the
 2.  Clone this Git repo onto your computer:
 
     ```
-    mkdir google-coral && cd google-coral
+    mkdir object-detection && cd object detection
 
     git clone https://github.com/darren1202/OBJECT_DETECTION_DEEPLEARNING.git --depth 1
     ```
