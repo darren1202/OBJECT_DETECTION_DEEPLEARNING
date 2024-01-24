@@ -27,7 +27,7 @@ Coral device such as the
 3.  Download the models:
 
     ```
-    cd object-detection
+    cd OBJECT_DETECTION_DEEPLEARNING
 
     sh download_models.sh
     ```
