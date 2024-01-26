@@ -24,13 +24,13 @@ USB/PCIe/M.2 Accelerator.
     ```
     mkdir google-coral && cd google-coral
 
-    git clone https://github.com/google-coral/examples-camera --depth 1
+    git clone https://github.com/darren1202/OBJECT_DETECTION_DEEPLEARNING.git --depth 1
     ```
 
 3.  Download the models:
 
     ```
-    cd examples-camera
+    cd OBJECT_DETECTION_DEEPLEARNING
 
     sh download_models.sh
     ```
